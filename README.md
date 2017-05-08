@@ -1,5 +1,5 @@
 # glowing-octo-rotary-repo
 
-say hi
+say hi.
 
 oh, hi!
